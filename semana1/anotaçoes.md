@@ -23,8 +23,25 @@ ii. mkdir é o comando usado para criar um diretório.
 
 iii. cd é o comando utilizado para navegar pelos diretórios.
 
-iv. code . abre a pasta atual no vscode
+iv. code . - abre a pasta atual no vscode
 
 - O que é um repositório?
+
+
+Um repositório é o elemento mais básico do GitHub. É um lugar onde você pode armazenar seu código, seus arquivos e o histórico de revisão de cada arquivo.
+
 - O que é uma Máquina Virtual?
+
+Na ciência da computação, máquina virtual consiste em um software de ambiente computacional que executa programas como um computador real, também chamado de processo de virtualização. Uma máquina virtual pode ser definida como “uma duplicata eficiente e isolada de uma máquina real”
+
 - Qual a diferença entre WSL e Máquina Virtual?
+
+WSL é um programa que foi desginado para a utilização simutanêa do windows e do linux, nos meus estudos, utilizando o linux dentro do windows.
+
+*tarefa, 10 comandos mais utilizados do Git.
+
+- Comandos do Git:
+
+i. git add
+ii. git commit
+iii. git push
