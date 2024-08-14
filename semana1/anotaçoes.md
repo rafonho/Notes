@@ -39,6 +39,14 @@ Na ciência da computação, máquina virtual consiste em um software de ambient
 WSL é um programa que foi desginado para a utilização simutanêa do windows e do linux, nos meus estudos, utilizando o linux dentro do windows.
 
 *tarefa, 10 comandos mais utilizados do Git.
+*tarefa, o que é JDK?
+* O que é uma API>
+* O que é uma API RESTFUL>
+* O que é um endpoint?
+* O que é uma rota em uma API?
+* Quais são os metodos http mais usados?
+
+obs: entenda os conceitos profundamente e faça um comparação com coisas do seu dia a dia.
 
 - Comandos do Git:
 
